@@ -1,26 +1,23 @@
 # Hello There! 👋
 
-<img src="path/to/your/cpp_logo.png" width="100" height="100" align="left" style="margin-right: 15px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="80" height="80" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" height="80" style="margin: 10px;">
+  <img src="https://isocpp.org/files/img/cpp_logo.png" width="80" height="80" style="margin: 10px;">
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="80" height="80" style="margin: 10px;">
+  <img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" style="margin: 10px;">
+</div>
 
-## I have a strong interest in C++ and Game Hacking
-* Main language: C++
-* Experienced in: Python, JavaScript, Java
-* Currently learning: Rust, Go
-* Familiar with: C#, TypeScript, Lua
-* Game engines: Unreal Engine, Unity
+## Skills
 
-### Projects
-- 🎮 Game modification frameworks
-- 🔧 Low-level system tools
-- 🛠️ Performance optimization libraries
+- TypeScript & JavaScript: Frontend Development
+- PHP & Laravel: Backend Development
+- C++: Currently learning
 
-### Skills
-- 💻 Systems programming
-- 🔐 Reverse engineering
-- 🧩 Algorithm design
-- 🌐 Network programming
-- 📊 Data structures
+## Projects
+- Web applications
+- API development
+- System tools
 
-### Connect with me
+## Connect
 - GitHub: [your-username]
-- Discord: [your-handle]
