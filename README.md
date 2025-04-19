@@ -18,6 +18,3 @@
 - Web applications
 - API development
 - System tools
-
-## Connect
-- GitHub: [your-username]
