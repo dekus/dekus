@@ -1,20 +1,11 @@
-# Hello There! 👋
+<h1 align=center width=40>hello there 👋</h1>
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="80" height="80" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" height="80" style="margin: 10px;">
-  <img src="https://isocpp.org/files/img/cpp_logo.png" width="80" height="80" style="margin: 10px;">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="80" height="80" style="margin: 10px;">
-  <img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" style="margin: 10px;">
+<div align=center>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg align=left width=60 height=60>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg width=60 height=60>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg width=60 height=60>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo_2.svg width=60 height=60>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript-logo.png width=60 height=60>
+
+  <p>Just a Skidder</p>
 </div>
-
-## Skills
-
-- TypeScript & JavaScript: Frontend Development
-- PHP & Laravel: Backend Development
-- C++: Currently learning
-
-## Projects
-- Web applications
-- API development
-- System tools
