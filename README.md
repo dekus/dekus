@@ -1,6 +1,6 @@
 <h1 align=center width=40>hello there 👋</h1>
 
-<div align=center>
+<div align=left>
   <img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg width=60 height=60>
   <img src=https://commons.wikimedia.org/wiki/Special:Redirect/file/Lua-logo-nolabel.svg width=60 height=60>
   <img src=https://commons.wikimedia.org/wiki/Special:Redirect/file/React-icon.svg width=60 height=60>
