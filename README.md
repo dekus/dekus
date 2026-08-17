@@ -1,4 +1,4 @@
-<h1 align="left" width="40">hello there 👋</h1>
+<h1 align="center" width="40">hello there 👋</h1>
 
 <div align="left">
   <strong>💼 My Works</strong><br><br>
